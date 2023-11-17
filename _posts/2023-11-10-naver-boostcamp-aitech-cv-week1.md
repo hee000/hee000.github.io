@@ -1,7 +1,7 @@
 ---
 title: "[네이버 부스트캠프] AI Tech CV 1주차"
 author: heech
-date: 2023-08-10
+date: 2023-11-10
 categories: [부스트캠프 AI Tech 6기, 회고]
 tags: [부스트캠프, AI Tech, Computer Vision]
 pin: false
